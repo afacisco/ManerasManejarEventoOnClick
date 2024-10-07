@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maneras de manejar el evento OnClick en los Botones</string>
+    <string name="btnxml_text">Botón XML</string>
+    <string name="btnevento_text">Botón Evento</string>
+    <string name="btnint1_text">Botón Interfaz 1</string>
+    <string name="btnint2_text">Botón Interfaz 2</string>
+    <string name="btnxml_toast">Prueba 1º Forma</string>
+    <string name="btnevento_toast">Prueba 2º Forma</string>
+    <string name="btnint1_toast">Prueba 3º Forma</string>
+    <string name="btnint2_toast">Prueba 3º Forma</string>
+</resources>
